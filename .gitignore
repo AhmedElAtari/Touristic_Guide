@@ -9,4 +9,5 @@
 !/intelxdk.config.additions.xml
 !/*.xdk
 !/.gitignore
+!/.gitattributes
 !/*.png
