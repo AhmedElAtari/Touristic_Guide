@@ -1,5 +1,8 @@
-Blank Intel XDK and Apache Cordova Project
+Apache Cordova Touristic Guide Project ( Hybride Android APP)
 ==========================================
+
+TangerG is a modern Mobile Mapping Application that is beautifully designed and functional. This application is so versatile that it can be used in many different businesses. Thanks to his responsive This App can be used for real searching ,viewing and rating the best restaurant , museum , hotel that exist in TANGER.
+
 
 See [LICENSE.md](<LICENSE.md>) for license terms and conditions.
 
