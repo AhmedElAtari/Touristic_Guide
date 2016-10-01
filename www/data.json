@@ -1,0 +1,557 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+
+ {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#AA1340",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "title": "Golden Tulip Farah Hotel",
+        "description": "L'hotel est idéalement placé pour profiter d'une vue sur la mur et sur Tanger. Le hall est magnifique!!! L'accueil est professionnel et souriant.",
+        "image": "hotel-farah-tanger.jpg",
+        "stars": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.75384,
+          35.792858
+        ]
+      }
+  },
+
+  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#AA1340",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "title": "El Minzah Hotel",
+        "description": "L'hôtel 5 étoiles El Minzah se situe au cœur de Tanger, à proximité de la vieille médina. Il dispose de 2 piscines, d'un centre de remise en forme et d'une vue panoramique sur la baie. Il y a 5 personnes qui regardent la page de cet hôtel.",
+        "image": "almanzah_hotel.jpg",
+        "stars": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.812454,
+          35.782452
+        ]
+      }
+    },
+
+
+   {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#AA1340",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "title": "Hotel Cesar",
+        "description": "un agréable hôtel recommandé à tous les voyageurs pour raisons d'affaires ou touristiques . Le personnel est très agréable soit à l'accueil ou au restaurant toujours à l'écoute",
+        "image": "cesar.jpg",
+        "stars": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.778058,
+          35.777036
+        ]
+      }
+    },
+
+  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#AA1340",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "title": "Pension Dar Omar Khayam",
+        "description": "Pour ceux qui cherchent un hotel pas cher, propre et au centre ville. C'est la meilleure adresse à Tanger! En plus le personnel est professionnel et chaleureux.",
+        "image": "pension-dar-omar-khayam.jpg",
+        "stars": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.805303,
+          35.779401
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#AA1340",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "title": "hotel rembrandt",
+        "description": "chambre avec télévision en noir et blanc prise de courant défectueuse salle de bain porte grinçante lavabo casse rideau occultant déchiré et pour conclure semaine infernale cause réfection",
+        "image": "hotel-rembrandt.jpg",
+        "stars": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.808595,
+          35.779978
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#AA1340",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "title": "Bayt Alice",
+        "description": "Amoureux de Tanger, difficile de venir au Maroc sans passer quelques jours à Tanger pour y retrouver quelques amis, rendez vous au petit Socco, un tour dans la Médina, une baignade dans l'Atlantique et un coup d’œil sur le détroit",
+        "image": "bayt-alice.jpg",
+        "stars": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.810131,
+          35.784834
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#AA1340",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "title": "Royal Tulip City Center",
+        "description": "Situé au cœur du quartier d’affaires et touristique de la ville, Ce  hôtel se trouve à seulement 10 minutes à pied des plages et des principaux sites d’intérêts.",
+        "image": "royal_tulip.jpg",
+        "stars": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.785437,
+          35.77236
+        ]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#AA1340",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "title": "Ryad Mogador Tanger",
+        "description": "Hôtel dans toute sa splendeur",
+        "image": "mogador_tanger.jpg",
+        "stars": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.760857,
+          35.787279
+        ]
+      }
+    },
+
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#AA1340",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "title": "Hotel Chellah",
+        "description": "L'hôtel Chellah est situé au cœur de Tanger, à seulement 700 mètres des plages du nord de la ville. Il propose des chambres climatisées et une grande piscine extérieure.",
+        "image": "Hotel Chellah.jpg",
+        "stars": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.810909,
+          35.777535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#411E27",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+    "title": "Grottes d'Hercule",
+
+    "image":"GrotteHercule.jpg",
+        "description": "Les Grottes d'Hercule sont des cavernes naturelles du détroit de Gibraltar situées à une dizaine de kilomètres de Tanger,Cette référence à la divinité de l'Antiquité grecque est en lien avec la mythologie qui situe au Maroc les Jardins des Hespérides."
+      },
+        "stars": "3",      
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.939243,
+          35.760025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#411E27",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+      "title": "Place de la kasbah",
+      "image": "kasbah-tanger.jpg",
+        "stars": "5",           
+        "description": "La place de la Casbah offre une vue très étendue sur la baie de Tanger ainsi que sur son port. Elle s’ouvre sur une ruelle bordée de maisons fastueusement ornées de sculptures d’angelots, de volets et de balcons multicolores."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.814694,
+          35.787999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#411E27",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "title": "Cap Malabata",
+        "stars": "1",             
+    "image": "Cap_Malabata.jpg",
+    "description": "Le cap Malabata est un petit promontoire de la côte marocaine sur le détroit de Gibraltar. Il ferme la baie de Tanger et se trouve à 6 km au nord-est de Tanger."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.749679,
+          35.817409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#411E27",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "stars": "5",             
+        "description": "Le Boulevard Pasteur de Tanger fait partie des axes principaux de Tanger. Il y a dessus la synagogue Chaar Raphael et la terrasse des parresseux",
+    "title": "Boulevard pasteur",
+    "image":"boulevard_pasteur.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.810418,
+          35.780544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#C8A03C",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "title": "Dall'Italiano",
+        "stars": "1",
+        "image":"dall-italiano.jpg",                
+        "description": "This place has really good Italian restaurant. It was a little warm inside with the a/c off but the food was amazing. The service was superb and they made my risotto to my specifications. I would recommend eating here to anyone that likes good Italian food!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.786864,
+          35.775657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#C8A03C",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "stars": "5",
+        "image":"saveursdepoissons.png",                
+        "title": "Le Saveur du Poisson",
+        "description": "Un des restaurants les plus authentiques de Tanger. Hassan et son père Mohamed Balhadj animent le lieu qui fut crée en 1993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81243,
+          35.78272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#C8A03C",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "stars": "3",
+        "image":"el-morocco-club.jpg",                
+        "title": "El Morocco Club",
+        "description": "El Morocco Club a été imaginé par Vincent Coppée et Oscar Badji, deux tangérois d'adoption, amoureux de la kasbah. C'est dans une maison historique du quartier millénaire, construite par Stuart Church, un peintre et décorateur de retitlemée ayant vécu à Tanger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.814926,
+          35.788781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#C8A03C",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "stars": "4",
+        "image":"nabab.jpg",                
+        "title": "Le Nabab",
+        "description": "En vous aventurant dans la médina de Tanger, dans une petite ruelle nichée au cœur de la Kasbah, un arrêt s’impose au restaurant marocain le plus charmant de la ville. Laissez-vous tenter par les délices de la vraie cuisine marocaine proposée par l’incontournable restaurant le Nabab."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.811257,
+          35.7877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#C8A03C",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "stars": "4",
+        "image":"pinus.jpg",                
+        "title": "Restaurant Nord-Pinus",
+        "description": "Ouvert en 2002, le restaurant La Nord-Pinus s'est installé sur Saint Bonnet de Mure en 2008 dans des locaux flambants neufs. Pouvant accueillir plus de 200 couverts, le restaurant vous reçoit dans un cadre chaleureux et raffiné et vous propose ses spécialités et pizzas tout au long de l'année"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.813416,
+          35.789146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#C8A03C",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "title": "El Contacto",
+        "stars": "2",
+        "image":"elcontacto.jpg",        
+        "description": " 172, Avenue Med VI, Tanger (Tanja) 90000, Maroc Classé n°16 sur 143 Restaurants à Tanger (Tanja) endroit excellent pour passer une soiree sympa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.802398,
+          35.779382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#C8A03C",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "title": "Salon Bleu",
+        "stars": "5",
+        "image":"salon_bleu.jpg",                
+        "description": "très bonne table, les plats, la présentation et la qualité des produits sont au rendez vous. Belle décoration et service de qualité. Le plus : selection de vin et de bons vins Marocains"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.812056,
+          35.788692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#C8A03C",
+        "marker-size": "medium",
+    "marker-symbol": "restaurant",
+    "image":"cafe_hafa.jpg",
+            "stars": "5",     
+       "title": "Café Hafa de Tanger",
+        "description": "Un passage par le café Hafa s'impose!! c'est un lieux mythique qui n'a pas changé depuis des années. Il date de 1921 et résiste incroyablement au temps. La vue sur la baie de Tanger est tout simplement époustouflante!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.821772,
+          35.791996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "stars": "5",             
+        "title": "Grand Souk (Grand Socco) de Tanger",
+    "image":"GrandSoko.jpg",
+        
+        "description": "Le Grand Socco, le grand souk, constitue réellement le coeur de Tanger. Cette place abrite un marché permanent où les commerçants en costumes traditionnels attirent les touristes du monde entier."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.813189,
+          35.784589
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3F5492",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+       "title": "Old American Legation Museum",
+               "stars": "5",     
+     "image":"OldAmericanLegation.jpg",
+        "description": "This museum is a must-see: Morocco was one of the first countries to recognise the fledgling United States, and this was the first piece of American real."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81077,
+          35.784086
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#A33838",
+        "marker-size": "medium",
+        "marker-symbol": "religious-muslim",
+                "stars": "5",     
+         "title": "الجامع الكبير طنجة",
+     "image":"mosquee-saudi.jpg",
+   "description": "الاستعمار البرتغالي، بعد استرجاعه في سنة 1684م عرف عدة أعمال ترميم وتوسيع خلال الفترة العلوية. تتميز هذه المعلمة ببهائها وغنى زخارفها، حيث استعملت فيها كل فنون الزخرفة من فسيفساء وزليج وصباغة ونقش ونحت وكتابة على الخشب والجبس."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.809517,
+          35.785935
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#489183",
+        "marker-size": "medium",
+        "marker-symbol": "soccer",
+    "title": "Stade Ibn Batouta",
+            "stars": "5",     
+    "image":"Stade Ibn Batouta.jpg",
+        "description": "Le stade Ibn Batouta est un stade de football et d'athlétisme situé au sud-est de la ville de Tanger au nord du Maroc. Il a une capacité de 45 000 places. Le stade a coûté 844 millions de dirhams, soit 80 millions d'euros."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.858003,
+          35.741414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3F5492",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "title": "Musée la Kasbah",
+        "stars": "5",
+        "image":"musee-la-kasbah.jpg",
+        "description": "Le musée de la Kasbah est un musée patrimonial et archéologique de la ville de Tanger, au Maroc et localisé dans un palais daté de 1737-1738 au cœur de la Kasbah. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.812358,
+          35.788777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3F5492",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+                "stars": "3",
+        "image":"legation_amercain.jpg",                
+        "title": "La légation américaine",
+        "description": "C'est en 1821, à l'initiative du sultan Moulay Slimane, que la Légation américaine devint la première possession des jeunes États-Unis d'Amérique à l'étranger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81076,
+          35.784152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3F5492",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "image":"Musée_Arts marocain_Tanger.jpg",        
+                "stars": "5",
+        "title": "Musée des Arts marocains de Tanger",
+        "description": "Le musée des arts marocains est situé dans la Kasbah de Tanger, plus précisément dans les appartements princiers du Dar el Makhzen, le palais du sultan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.816869,
+          35.781741
+        ]
+      }
+    }
+  ]
+}
+
+

@@ -1,0 +1,156 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="description" content="Guide Tourstique - Tanger" />
+<meta name="keywords" content="Guide Tourstique ,Tanger,Ahmed El Atari,Jidal mohamed,Guide" />
+<meta name="author" content="Ahmed EL Atari , Jidal Mohammed">
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="1 month">
+
+
+<!-- Title Tags -->
+<title>Guide Tourstique - Tanger</title>
+
+<!-- Style  -->
+<link type="text/css" rel="stylesheet" href="css/style.css"/>
+<link type="text/css" rel="stylesheet" href="css/black.css"/>
+<link type="text/css" rel="stylesheet" href="css/idangerous.swiper.css"/>
+<link type="text/css" rel="stylesheet" href="css/swipebox.css" />
+<link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css' />
+<style>
+  /* following two viewport lines are equivalent to the meta viewport statement above, needed for Windows */
+  /* see http://www.quirksmode.org/blog/archives/2014/05/html5_dev_conf.html and http://dev.w3.org/csswg/css-device-adapt/ */
+  @-ms-viewport { width: 100vw ; zoom: 100% ; }  @viewport { width: 100vw ; zoom: 100% ; }
+  @-ms-viewport { user-zoom: fixed ; }           @viewport { user-zoom: fixed ; }
+</style>
+
+<!-- Cordova Lib -->
+<script src="cordova.js"></script>          <!-- phantom library, needed for Cordova api calls, added during build -->
+<script src="xdk/init-dev.js"></script>     <!-- normalizes device and document ready events, see README for details -->
+
+
+</head>
+<body>
+  <div id="header">
+      <div class="gohome radius20"><a href="#"><img src="images/icons_dark/home.png" alt="" title="Acceuil" /></a></div>
+  </div>
+  <div class="swiper-container swiper-parent">
+    <div class="swiper-wrapper">
+      <!--Menu page-->
+            <div class="swiper-slide sliderbg_menu">
+                <div class="swiper-container swiper-nested">
+                         <div class="swiper-wrapper">
+                              <div class="swiper-slide">
+                                        <div class="slide-inner">
+                                              <div class="logo"><a href="#"><img src="images/logo.png" alt="" title="" border="0" /></a></div>
+                                              <div class="menu">
+                                              <ul>
+                                              <li><a href="#" onclick="swiperParent.swipeTo(2);window.localStorage.choix = 1;document.getElementById('frm').contentDocument.location.reload(true);"><img src="images/icons_dark/restau.png" alt="" title="" /><span>Restaurant</span></a></li>
+                                              <li><a href="#" onclick="swiperParent.swipeTo(2);window.localStorage.choix = 3;document.getElementById('frm').contentDocument.location.reload(true);"><img src="images/icons_dark/hotel.png" alt="" title="" /><span>Hotel</span></a></li>
+                                              <li><a href="#" onclick="swiperParent.swipeTo(2);window.localStorage.choix = 2;document.getElementById('frm').contentDocument.location.reload(true);"><img src="images/icons_dark/Monument.png" alt="" title="" /><span>Monument</span></a></li>
+                                              <li><a href="#" onclick="swiperParent.swipeTo(2);window.localStorage.choix = 4;document.getElementById('frm').contentDocument.location.reload(true);"><img src="images/icons_dark/museum.png" alt="" title="" /><span>Musuem</span></a></li>
+                                              <li><a href="#" onclick="swiperParent.swipeTo(1);"><img src="images/icons_dark/about.png" alt="" title="" /><span>A Propos</span></a></li>                                        
+                                              <li><a href="#" onclick="swiperParent.swipeTo(3);"><img src="images/icons_dark/contact.png" alt="" title="" /><span>Contact</span></a></li>                                        
+                                              </ul>
+                                              <div class="clearfix"></div>
+                                              </div>
+                                       </div>
+                               </div>
+                         </div>
+                        <div class="swiper-scrollbar"></div>
+                </div> 
+            </div>
+      <!--Page 1 content { A Propos } -->
+            <div class="swiper-slide sliderbg">
+            <div class="swiper-container swiper-nested1">
+                     <div class="swiper-wrapper">
+                          <div class="swiper-slide">
+                                    <div class="slide-inner">
+                                              <div class="pages_container">
+                                              <h2 class="page_title">About Us</h2>
+                                              <center><div class="image_single radius4"><img src="images/page_photo.jpg" alt="" title="" border="0" /></div></center>
+                                              <div class="image_caption black black_borderbottom radius4">Guide Touristique de Tanger</div>
+                                              
+                                              <h4 ><center>La Créativité est notre Principe<center></h4>
+                                              <blockquote>Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service. <span class="quote_author">-Steve Jobs</span></blockquote>
+                                              
+                                              <p>Ce travail s'inscrit dans le cadre de projet de fin de module du webmapping et il a pour objectif la réalisation d'un guide touristique pour la ville de tanger en exploiatant les connaissances déja acquise durant ce module</p>
+                                      
+                                              <div id="tab3" class="tabcontent">
+                                                  <span class="quote_author">Réalisé par:</span>
+                                                  <blockquote>JidaL Mohammed et Ahmed  El Atari </blockquote>
+                                              </div>      
+                                              <!--End of page container-->
+                                    </div>
+                          </div>
+                    </div>
+                    <div class="swiper-scrollbar1"></div>
+           </div>
+           </div>
+            </div>
+      <!--Page 2 content { Map : Restaurant , Hotels , .... } -->
+            <div class="swiper-slide sliderbg">
+            <div class="swiper-container swiper-nested2">
+                     <div class="swiper-wrapper">
+                          <div class="swiper-slide">
+                                    <div class="slide-inner" style="margin-top:52px;">
+                                    </div>
+                                    <iframe style="height:100%;width:100%"src="map.html" id="frm"></iframe> 
+                          </div>
+                    </div>
+                    <div class="swiper-scrollbar2"></div>
+           </div>
+           </div>
+      <!--Page 9 content { Contact } -->
+            <div class="swiper-slide sliderbg">
+            <div class="swiper-container swiper-nested3">
+                     <div class="swiper-wrapper">
+                          <div class="swiper-slide">
+                                    <div class="slide-inner">
+                                              <div class="pages_container">
+                                              
+                                              <h2 class="page_title">Get in touch</h2>
+                                                  <div class="form">
+                                                  <form id="contact-us" action="http://ahmedelatari.com/" method="post">
+                                                  <label>Name:</label>
+                                                  <input type="text" name="contactName" id="contactName" value="" class="form_input radius4 txt requiredField" />
+                                                  <label>Email:</label>
+                                                  <input type="text" name="email" id="email" value="" class="form_input radius4 txt requiredField email" />
+                                                  <label>Message:</label>
+                                                  <textarea name="comments" id="commentsText" class="form_textarea radius4 txtarea requiredField" rows="" cols=""></textarea>
+                                                  <input type="hidden" name="submitted" id="submitted" value="true" />
+                                                  <input name="submit" type="submit" class="form_submit radius4 black black_borderbottom" value="Send" />
+                                                  </form>
+                                                  </div>
+
+                                              <div class="clearfix"></div>
+                                              <!--End of page container-->
+                                    </div>
+                          </div>
+                    </div>
+                    <div class="swiper-scrollbar9"></div>
+           </div>
+           </div>
+             
+           <!--End of pages--> 
+    </div>
+    <div class="pagination"></div>
+  </div>
+
+<!--  Javascript Lib -->
+<script type="text/javascript" src="js/jquery-1.10.1.min.js"></script> <!-- Jquery -->
+<script type="text/javascript" src="js/jquery.swipebox.js"></script>
+<script type="text/javascript" src="js/idangerous.swiper-2.1.min.js"></script>
+<script type="text/javascript" src="js/idangerous.swiper.scrollbar-2.1.js"></script>
+<script type="text/javascript" src="js/jquery.tabify.js"></script> 
+<script type="text/javascript" src="js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="js/code.js"></script>
+<script type="text/javascript" src="js/load.js"></script>
+</body>
+</html>
